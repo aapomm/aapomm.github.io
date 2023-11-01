@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.flex > .flex-item {
+  padding: 0 1rem;
+}
+
+ul.list {
+  list-style: none;
+}
+
+ul.list li {
+  padding: 1rem 0;
+}
+
+.section {
+  padding: 2rem 0;
+}
