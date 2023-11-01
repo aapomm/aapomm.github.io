@@ -1,9 +1,14 @@
 .flex {
   display: flex;
+  gap: 5rem;
 }
 
-.flex > .flex-item {
-  padding: 0 1rem;
+i {
+  padding-right: 1px;
+}
+
+a {
+  color: inherit;
 }
 
 ul.list {
